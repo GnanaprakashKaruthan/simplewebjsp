@@ -49,7 +49,7 @@
 
 
 	<build>
-		<finalName>webappRunnerSample</finalName>
+		<finalName>webapp-runner</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
